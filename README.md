@@ -3,6 +3,7 @@
 - The goal of the competition is to predict which ad will be clicked on
 - See https://www.kaggle.com/c/outbrain-click-prediction for more details
 - This is `ololo`'s part of the 13th place solution to the challenge (team "diaman & ololo")
+- The presentation of the solution: http://www.slideshare.net/AlexeyGrigorev/outbrain-click-prediction-71724151
 - `diaman`'s solution can be found at [INSERT LINK]
 
 
